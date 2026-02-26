@@ -53,8 +53,4 @@ Alignment ensures the policy supports governance, risk, and compliance expectati
 * Framework alignment ISO SOC NIST
 * Clear technical and non technical communication
 
----
-
-## Project Notes
-
-This project was created for portfolio and professional demonstration purposes. No proprietary or confidential information is included.
+--
