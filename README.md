@@ -4,7 +4,7 @@
 
 This project presents a comprehensive Information Security and User Compliance Policy developed to support audit readiness, risk management, and secure user behavior within a mid sized organization of approximately 50 to 100 employees.
 
-The policy is designed to establish clear expectations for information security responsibilities, acceptable use, access control, and data protection while aligning with widely recognized security and compliance frameworks.
+The policy is designed to establish clear expectations for information security responsibilities, acceptable use, access control, and data protection while aligning with widely recognized security and compliance frameworks. (Documents/Information_Security_and_User_Compliance_Policy.pdf)
 
 ---
 
@@ -46,7 +46,7 @@ Alignment ensures the policy supports governance, risk, and compliance expectati
 ## Project Deliverable
 
 Information Security and User Compliance Policy  
-[View PDF Document](documents/Information_Security_and_User_Compliance_Policy.pdf)
+[View PDF Document](Documents/Information_Security_and_User_Compliance_Policy.pdf)
 
 ---
 
